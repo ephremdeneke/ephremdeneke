@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ephremdeneke
-- 👀 I’m interested in web deve;lopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react frame work
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me to become good front end developer
